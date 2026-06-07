@@ -128,7 +128,6 @@ SQLite Database
 Ollama
 ↓
 Gemma 4 Local LLM
-
 ---
 
 ## Future Improvements
