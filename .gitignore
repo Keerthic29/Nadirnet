@@ -1,6 +1,21 @@
-venv/
-node_modules/
-.env
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+
+# Database
+*.db
+
+# Node
+node_modules/
 dist/
-build/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
